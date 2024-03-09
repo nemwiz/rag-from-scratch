@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "rag-from-scratch"
+version = "0.0.1"
+description = "A demo project that showcases how to build a RAG (Retrieval Augmented Generation) from scratch."
+authors = ["nemwiz <nemwiz@github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+tiktoken = "^0.6.0"
+openai = "^1.13.3"
+python-dotenv = "^1.0.1"
+numpy = "^1.26.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

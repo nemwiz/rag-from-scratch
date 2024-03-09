@@ -1,1 +1,5 @@
 .idea
+.vscode
+.env
+
+chunks/*.json

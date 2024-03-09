@@ -1,0 +1,5 @@
+// Info https://containers.dev/implementors/json_reference/
+{
+  "name": "rag-from-scratch",
+  "dockerFile": "Dockerfile"
+}
