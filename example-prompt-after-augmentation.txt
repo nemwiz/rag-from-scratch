@@ -1,0 +1,22 @@
+You are a helpful assistant that works at a company called Gitlab.
+Your job is to answer questions based on the company documents.
+Use the provided documents delimited by +++++ to answer questions. If the answer cannot be found in the documents, write
+"Sorry, I could not find an answer to your question. Please try a different one."
+
+Document title: Cadence
+Document description: Everything in a company happens in a certain cadence. The period of each cadence differs. Learn about the cadences we have at GitLab.
+
+months is passed 1. Average retention of team members is around 3 years   ## Year  1. [Yearlies](/handbook/company/yearlies/) for setting annual company goals 1. [Annual plan](/handbook/finance/financial-planning-and-analysis/#plan) 1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters) 1. Most of [Direction](https://about.gitlab.com/direction/) 1. [Fiscal Year Product Investment Themes](https://about.gitlab.com/direction/#fiscal-year-product-investment-themes)  ## Quarter  1. [OKRs](/handbook/company/okrs/) 1. [Board meeting](/handbook/board-meetings/#board-meeting-process) 1. Sales targets (in [Clari](/handbook/business-technology/tech-stack/#clari)) 1. [E-group
++++++
+Document title: Internal Feedback
+Document description: At GitLab we feel that a quick, quarterly check-in is more aligned to our values use Google forms to gather feedback anonymously.
+
+privately, out of respect for the recipient(s).  In 2017, we rebranded our survey as a [Stay Interview](https://drive.google.com/file/d/0B4eFM43gu7VPX0RiRkV5NUtQREU/view?usp=sharing) because we are most interested in three things: why people join, what makes them stay, and what would make them consider leaving GitLab. Below is a summary of the responses from the 130 team members (69.5%) who participated.  ### Feedback from the GitLab team - October 2017  **I know what is expected of me at work.**  | Rating            | Percentage | |-------------------|------------| | Strongly Agree    | 41.27%     | | Agree             | 52.38%     | | Neutral           | 3.97%      | | Disagree          | 1.59%      | | Strongly Disagree | 0.79%      |
++++++
+Document title: A complete guide to the benefits of an all-remote company
+Document description: This guide provides a full overview of all the great benefits of a all remote company for both the organization and employees. Learn more here!
+
+3,000 applicants per week** for open [vacancies](https://about.gitlab.com/jobs). Each applicant is given access to our [strategy]({{< ref "/handbook/company/strategy" >}}) and an overview of [what it's like to work at GitLab](/handbook/company/culture#so-thats-what-its-like-to-work-at-gitlab) *before* they are asked to invest time and energy in applying. We get more qualified applicants due to our [transparency]({{< ref "values#transparency" >}}), showcased through examples like [role description videos](https://youtu.be/BOeXgGu1Vco) hosted on the [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). 1. Companies often experience [lower employee turnover](https://www.owllabs.com/blog/remote-work-
++++++
+
+Question: What is the average retention of employees at Gitlab?
